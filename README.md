@@ -26,13 +26,13 @@ A fonte dos dados está disponível no Github e foi captado através da Comunida
 
 | Column     | Description              |
 |------------|--------------------------|
-| `Ano` | Ano referente as importações - nesse conjunto de dados os dados são relativos ao ano de 2020 |
-| `mês` | mês que foram efetivadas as exportações. |
-| `Pais_importador` | Pais que foi realizada a importação. |
-| `Produto` | Categoria de produtos, confome classificação do dataset. |
-| `UF_importadora` | Estado que realizou a importação. |
-| `custo_importacao` | Custo de importação do item.Preço de abertura da negociação. |
-| `Via` | Fornece a informação da Via na qual o item exportado foi enviado ao Brasil. |
+| `Company` | Empresa Unicornio |
+| `Valuation($B)` | Valor da empresa. |
+| `Date Joined` | Data em que se tornou unicórnio. |
+| `Country` | País onde está a empresa Unicórnio. |
+| `City` | País onde está a empresa Unicórnio. |
+| `Industry` | Tipo de negócio onde o Unicórnio atua. |
+| `Investors` | A empresa de investimento que faz parte na sociedade da empresa Unicórnio. |
 
 # 🧾 Desafio 
 
